@@ -52,4 +52,5 @@
 | chenzhiguo | <https://github.com/chenzhiguo> |              | +8   |
 | huyuechy   | <https://github.com/huyuechy>   |              | +8   |
 | caojiele   | <https://github.com/caojiele>   |              | +8   |
+| wzlee      | <https://github.com/wzlee>      |              | +8   |
 
